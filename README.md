@@ -27,6 +27,6 @@ MP4 created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 I had a tough time trying to figure out a bug that I had with the VieHolder. 
